@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Mark Twain Theme",
+  "version": "2.1",
+  "description": "Makes Mark Twain(IS.239) related websites look nice.",
+  "icons": { "128": "icons/icon128.png" },
+   "browser_action": {
+          "default_title": "Google Mail",      // optional; shown in tooltip
+          "default_popup": "popup.html"        
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://is239.schoolwires.com/*"],
+      "css": ["is239/is239.css"],
+      "js": ["is239/button.js"]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+* {
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-ms-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+.sw-mystart-nav.sw-mystart-dropdown.schoollist, #gb-header-links {
+	display: none !important;
+}
+#sw-search-input {
+	outline: none;
+}
+.icon-font {
+	outline: none;
+}
+#cs-sw-footer-outer {
+	display: none;
+}
+.ui-article-description h3 {
+	margin-top: 20px;
+}
+#pmi-11 {
+	display: none;
+}
+
+
+
+
+
+/*#gb-page.background-photo-false, .column-inner {
+    background: #3c3c42 !important;
+}
+.sw-content-container1 {
+	background: rgb(61, 61, 70) !important;
+}
+.hp.column.one.true {
+	color: rgb(177, 177, 177) !important;
+}
+.column-inner {
+	height: 100% !important;
+	width: 100% !important;
+}
+#gb-footer-outer {
+	background: rgb(70, 70, 76) !important;
+}
+#gb-header-outer, #gb-header-outer * {
+	background: rgb(70, 70, 76) !important;
+}
+.sw-channel-item a {
+	height: 100%; !important;
+}
