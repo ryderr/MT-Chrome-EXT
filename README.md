@@ -1,5 +1,5 @@
 # MARK TWAIN CHROME EXTENSION
-[!N|Solid](http://is239.schoolwires.com/cms/lib/NY18000436/Centricity/Template/GlobalAssets/images///Logos/MT_Logo.png)
+[![N|Solid](http://is239.schoolwires.com/cms/lib/NY18000436/Centricity/Template/GlobalAssets/images///Logos/MT_Logo.png)
 # Why should I get this?
   - Cleaner design
   - Themes
