@@ -6,19 +6,19 @@
   - And much more
 
 # Files And what they do
-- ### Manifest.json
+- Manifest.json
     - tells chrome what to do on each page
         - what css/js to run
     - links popup and icon into chrome
     - tells chrome extension info (name, description, version, etc)
-- ### Popup.html
+- Popup.html
     - Html code for popup on icon click
-- ### Button.js
+- Button.js
   - Adds "change theme" button the homepage
   - adds theming capability
-- ### Is239.css
+- Is239.css
     - CSS on page load
         - removes unnessary divs and buttons
-### Todos
+# Todos
  - More page support
  - more custom themeing
