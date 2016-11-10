@@ -5,7 +5,7 @@
   "description": "Makes Mark Twain(IS.239) related websites look nice.",
   "icons": { "128": "icons/icon128.png" },
    "browser_action": {
-          "default_title": "Google Mail",      // optional; shown in tooltip
+          "default_title": "Mark Twain Extension",
           "default_popup": "popup.html"        
   },
   "content_scripts": [
